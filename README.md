@@ -25,11 +25,10 @@ This repository contains a Power BI dashboard that visualizes Amazon sales data.
 - [Power BI Desktop](https://powerbi.microsoft.com/desktop/) installed on your computer.
 
 ### Installation
-`
 1. **Open the Power BI file**:
-   - Use Power BI Desktop to open \`AmazonSalesDashboard.pbix\`.
+   - Use Power BI Desktop to open \`AmazonSalesAnalysis.pbix\`.
 
-3. **Data Refresh**:
+2. **Data Refresh**:
    - Ensure your data source is connected and refresh the data to get the latest insights.
 
 ## Usage
@@ -37,25 +36,6 @@ This repository contains a Power BI dashboard that visualizes Amazon sales data.
 - **Filters and Slicers**: Use the built-in filters and slicers to interact with the data and gain detailed insights.
 - **Visualizations**: Various charts and graphs provide a comprehensive view of sales performance.
 
-## Contributing
-
-1. Fork the repository.
-2. Create your feature branch (\`git checkout -b feature/AmazingFeature\`).
-3. Commit your changes (\`git commit -m 'Add some AmazingFeature'\`).
-4. Push to the branch (\`git push origin feature/AmazingFeature\`).
-5. Open a pull request.
-
-Any enhancements or bug fixes are welcome.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 This dashboard was created using sales data to demonstrate the capabilities of Power BI in visualizing and analyzing business data.
-
----
-
-*Created by [Your Name](https://github.com/your-username)*
-EOF
